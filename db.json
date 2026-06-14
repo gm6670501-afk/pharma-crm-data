@@ -103,6 +103,23 @@
   ],
   "chemists": [],
   "dcrs": [],
-  "reminders": [],
+  "reminders": [
+    {
+      "id": "rem_1781465679726_t9191",
+      "doctorId": "doc_1781442154041",
+      "locationId": "loc_1781464084699_tsb2q",
+      "date": "2026-06-14",
+      "time": "11.30 - 2.00",
+      "status": "Pending"
+    },
+    {
+      "id": "rem_1781465679727_7lviu",
+      "doctorId": "doc_1781464804182",
+      "locationId": "loc_1781464727887_uyz05",
+      "date": "2026-06-14",
+      "time": "10:00",
+      "status": "Pending"
+    }
+  ],
   "attachments": []
 }
