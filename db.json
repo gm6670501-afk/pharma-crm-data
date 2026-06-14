@@ -40,6 +40,54 @@
       "latitude": 19.142096249290397,
       "longitude": 72.87457940953794,
       "googleMapUrl": "https://www.google.com/maps?q=19.142096249290397,72.87457940953794",
+      "mrId": "admin",
+      "locations": [
+        {
+          "id": "loc_1781464084699_tsb2q",
+          "clinicName": "Saadhya Gastro & Eye Hospital",
+          "address": "118, Shri Nagar Main Rd, near Anand bazar, Shree Nagar Main Colony, New Palasia, Indore, Madhya Pradesh 452018",
+          "city": "Indore ",
+          "area": "Aanand baazar ",
+          "pincode": "452018",
+          "preferredTime": "11.30 - 2.00",
+          "latitude": 19.142096249290397,
+          "longitude": 72.87457940953794
+        }
+      ]
+    },
+    {
+      "id": "doc_1781464804182",
+      "name": "Dr. Neeraj Dayani",
+      "specialty": "",
+      "qualification": "",
+      "mobile": "",
+      "clinicName": "dr.neeraj dayani clinic",
+      "address": "",
+      "city": "",
+      "area": "",
+      "pincode": "",
+      "category": "",
+      "callPriority": "Medium",
+      "visitFrequency": "",
+      "preferredTime": "",
+      "birthday": "",
+      "anniversary": "",
+      "latitude": 19.051767966689155,
+      "longitude": 72.8710136933048,
+      "googleMapUrl": "https://www.google.com/maps?q=19.051767966689155,72.8710136933048",
+      "locations": [
+        {
+          "id": "loc_1781464727887_uyz05",
+          "clinicName": "dr.neeraj dayani clinic",
+          "preferredTime": "",
+          "address": "",
+          "area": "",
+          "city": "",
+          "pincode": "",
+          "latitude": 19.051767966689155,
+          "longitude": 72.8710136933048
+        }
+      ],
       "mrId": "admin"
     }
   ],
