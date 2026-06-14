@@ -37,8 +37,8 @@
       "preferredTime": "11.30 - 2.00",
       "birthday": "",
       "anniversary": "",
-      "latitude": null,
-      "longitude": null,
+      "latitude": 22.712627750645566,
+      "longitude": 75.86402314598656,
       "googleMapUrl": "https://www.google.com/maps?q=null,null",
       "mrId": "admin",
       "locations": [
@@ -50,8 +50,8 @@
           "area": "Aanand baazar ",
           "city": "Indore ",
           "pincode": "452018",
-          "latitude": null,
-          "longitude": null
+          "latitude": 22.708534062635763,
+          "longitude": 75.8767090587859
         }
       ],
       "nextScheduledDate": null,
@@ -64,30 +64,30 @@
       "qualification": "",
       "mobile": "",
       "clinicName": "dr.neeraj dayani clinic",
-      "address": "",
+      "address": "near jmb sweets",
       "city": "indore",
-      "area": "scheme no.114",
+      "area": "scheme no.140",
       "pincode": "452016",
       "category": "",
       "callPriority": "Medium",
       "visitFrequency": "",
-      "preferredTime": "",
+      "preferredTime": "11.30 - 2.00",
       "birthday": "",
       "anniversary": "",
-      "latitude": 22.7313961517467,
-      "longitude": 75.84196789539246,
-      "googleMapUrl": "https://www.google.com/maps?q=19.139518261278404,72.87690982559178",
+      "latitude": 22.7647663,
+      "longitude": 75.9034496,
+      "googleMapUrl": "https://www.google.com/maps?q=22.7647663,75.9034496",
       "locations": [
         {
           "id": "loc_1781464727887_uyz05",
           "clinicName": "dr.neeraj dayani clinic",
-          "preferredTime": "",
-          "address": "",
-          "area": "scheme no.114",
+          "preferredTime": "11.30 - 2.00",
+          "address": "near jmb sweets",
+          "area": "scheme no.140",
           "city": "indore",
           "pincode": "452016",
-          "latitude": 22.734886422785515,
-          "longitude": 75.8377009359331
+          "latitude": 22.7647663,
+          "longitude": 75.9034496
         }
       ],
       "mrId": "admin",
