@@ -21,11 +21,6 @@
   ],
   "doctors": [
     {
-      "id": "doc_test",
-      "name": "Dr. Test Connection",
-      "specialty": "Physician"
-    },
-    {
       "id": "doc_1781442154041",
       "name": "Dr.harshal shah ",
       "specialty": "Gastroenterologist",
