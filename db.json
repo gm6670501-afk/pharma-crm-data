@@ -1,0 +1,15 @@
+{
+  "products": [],
+  "doctors": [
+    {
+      "id": "doc_test",
+      "name": "Dr. Test Connection",
+      "specialty": "Physician"
+    }
+  ],
+  "doctor_products": [],
+  "chemists": [],
+  "dcrs": [],
+  "reminders": [],
+  "attachments": []
+}
