@@ -93,6 +93,32 @@
       "mrId": "admin",
       "nextScheduledDate": "2026-06-15",
       "nextScheduledTime": "12:30"
+    },
+    {
+      "id": "doc_1781545780224",
+      "name": "DR.RAHUL ROY",
+      "specialty": "",
+      "qualification": "",
+      "mobile": "",
+      "clinicName": "",
+      "address": "",
+      "city": "",
+      "area": "",
+      "pincode": "",
+      "category": "",
+      "callPriority": "Medium",
+      "visitFrequency": "",
+      "preferredTime": "",
+      "birthday": "",
+      "anniversary": "",
+      "nextScheduledDate": null,
+      "nextScheduledTime": null,
+      "latitude": null,
+      "longitude": null,
+      "googleMapUrl": "",
+      "locations": [],
+      "isDraft": true,
+      "mrId": "admin"
     }
   ],
   "doctor_products": [
