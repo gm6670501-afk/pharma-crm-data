@@ -21,26 +21,6 @@
   ],
   "doctors": [
     {
-      "id": "doc_test",
-      "name": "Dr. Test Connection",
-      "specialty": "Physician",
-      "locations": [
-        {
-          "id": "loc_1781498666259_tjy8e",
-          "clinicName": "Primary Clinic",
-          "address": "",
-          "city": "",
-          "area": "",
-          "pincode": "",
-          "preferredTime": "",
-          "latitude": 22.7196,
-          "longitude": 75.8577
-        }
-      ],
-      "latitude": 22.712732150832217,
-      "longitude": 75.86513416149799
-    },
-    {
       "id": "doc_1781442154041",
       "name": "Dr.harshal shah ",
       "specialty": "Gastroenterologist",
@@ -57,28 +37,67 @@
       "preferredTime": "11.30 - 2.00",
       "birthday": "",
       "anniversary": "",
-      "latitude": 22.733223727523413,
-      "longitude": 75.87554139400494,
-      "googleMapUrl": "https://www.google.com/maps?q=19.142096249290397,72.87457940953794",
+      "latitude": 22.712627750645566,
+      "longitude": 75.86402314598656,
+      "googleMapUrl": "https://www.google.com/maps?q=null,null",
       "mrId": "admin",
       "locations": [
         {
-          "id": "loc_1781498666259_7rubv",
+          "id": "loc_1781464084699_tsb2q",
           "clinicName": "Saadhya Gastro & Eye Hospital",
-          "address": "118, Shri Nagar Main Rd, near Anand bazar, Shree Nagar Main Colony, New Palasia, Indore, Madhya Pradesh 452018",
-          "city": "Indore ",
-          "area": "Aanand baazar ",
-          "pincode": "452018",
           "preferredTime": "11.30 - 2.00",
-          "latitude": 22.7118785557645,
-          "longitude": 75.85329425375427
+          "address": "118, Shri Nagar Main Rd, near Anand bazar, Shree Nagar Main Colony, New Palasia, Indore, Madhya Pradesh 452018",
+          "area": "Aanand baazar ",
+          "city": "Indore ",
+          "pincode": "452018",
+          "latitude": 22.708534062635763,
+          "longitude": 75.8767090587859
         }
-      ]
+      ],
+      "nextScheduledDate": null,
+      "nextScheduledTime": null
+    },
+    {
+      "id": "doc_1781464804182",
+      "name": "Dr. Neeraj Dayani",
+      "specialty": "",
+      "qualification": "",
+      "mobile": "",
+      "clinicName": "dr.neeraj dayani clinic",
+      "address": "near jmb sweets",
+      "city": "indore",
+      "area": "scheme no.140",
+      "pincode": "452016",
+      "category": "",
+      "callPriority": "Medium",
+      "visitFrequency": "",
+      "preferredTime": "11.30 - 2.00",
+      "birthday": "",
+      "anniversary": "",
+      "latitude": 22.720083906437658,
+      "longitude": 75.86628911729488,
+      "googleMapUrl": "https://www.google.com/maps?q=null,null",
+      "locations": [
+        {
+          "id": "loc_1781464727887_uyz05",
+          "clinicName": "dr.neeraj dayani clinic",
+          "preferredTime": "11.30 - 2.00",
+          "address": "near jmb sweets",
+          "area": "scheme no.140",
+          "city": "indore",
+          "pincode": "452016",
+          "latitude": 22.712838992698934,
+          "longitude": 75.8524867145692
+        }
+      ],
+      "mrId": "admin",
+      "nextScheduledDate": "2026-06-15",
+      "nextScheduledTime": "12:30"
     }
   ],
   "doctor_products": [
     {
-      "id": "dp_z0stipfg7",
+      "id": "dp_k8ze0ps35",
       "doctorId": "doc_1781442154041",
       "productId": "prod_1781441264878",
       "priority": "Medium",
@@ -90,17 +109,33 @@
   "dcrs": [],
   "reminders": [
     {
-      "id": "rem_1781498666276_exd7s",
-      "doctorId": "doc_test",
-      "locationId": "loc_1781498666259_tjy8e",
-      "date": "2026-06-15",
+      "id": "rem_1781465709200_y0mq8",
+      "doctorId": "doc_1781442154041",
+      "locationId": "loc_1781464084699_tsb2q",
+      "date": "2026-06-14",
+      "time": "11.30 - 2.00",
+      "status": "Pending"
+    },
+    {
+      "id": "rem_1781465709200_42oai",
+      "doctorId": "doc_1781464804182",
+      "locationId": "loc_1781464727887_uyz05",
+      "date": "2026-06-14",
       "time": "10:00",
       "status": "Pending"
     },
     {
-      "id": "rem_1781498666276_8iia2",
+      "id": "rem_1781541955888_iudet",
       "doctorId": "doc_1781442154041",
-      "locationId": "loc_1781498666259_7rubv",
+      "locationId": "loc_1781464084699_tsb2q",
+      "date": "2026-06-15",
+      "time": "11.30 - 2.00",
+      "status": "Pending"
+    },
+    {
+      "id": "rem_1781541955889_8w474",
+      "doctorId": "doc_1781464804182",
+      "locationId": "loc_1781464727887_uyz05",
       "date": "2026-06-15",
       "time": "11.30 - 2.00",
       "status": "Pending"
