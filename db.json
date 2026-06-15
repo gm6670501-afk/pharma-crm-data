@@ -113,10 +113,22 @@
       "anniversary": "",
       "nextScheduledDate": null,
       "nextScheduledTime": null,
-      "latitude": null,
-      "longitude": null,
+      "latitude": 22.724121986266088,
+      "longitude": 75.83926894662456,
       "googleMapUrl": "",
-      "locations": [],
+      "locations": [
+        {
+          "id": "loc_1781545780230_j727d",
+          "clinicName": "Primary Clinic",
+          "address": "",
+          "city": "",
+          "area": "",
+          "pincode": "",
+          "preferredTime": "",
+          "latitude": 22.7196,
+          "longitude": 75.8577
+        }
+      ],
       "isDraft": true,
       "mrId": "admin"
     }
@@ -180,6 +192,14 @@
       "locationId": "loc_1781464727887_uyz05",
       "date": "2026-06-15",
       "time": "11.30 - 2.00",
+      "status": "Pending"
+    },
+    {
+      "id": "rem_1781545934208_two74",
+      "doctorId": "doc_1781545780224",
+      "locationId": "loc_1781545780230_j727d",
+      "date": "2026-06-15",
+      "time": "10:00",
       "status": "Pending"
     }
   ],
