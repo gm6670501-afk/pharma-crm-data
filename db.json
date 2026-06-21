@@ -52,9 +52,9 @@
       "preferredTime": "11.30 - 2.00",
       "birthday": "",
       "anniversary": "",
-      "latitude": 22.712627750645566,
-      "longitude": 75.86402314598656,
-      "googleMapUrl": "https://www.google.com/maps?q=null,null",
+      "latitude": 22.729678,
+      "longitude": 75.894257,
+      "googleMapUrl": "https://www.google.com/maps?q=22.729678,75.894257",
       "mrId": "admin",
       "locations": [
         {
@@ -65,12 +65,13 @@
           "area": "Aanand baazar ",
           "city": "Indore ",
           "pincode": "452018",
-          "latitude": 22.708534062635763,
-          "longitude": 75.8767090587859
+          "latitude": 22.729678,
+          "longitude": 75.894257
         }
       ],
       "nextScheduledDate": null,
-      "nextScheduledTime": null
+      "nextScheduledTime": null,
+      "isDraft": false
     },
     {
       "id": "doc_1781464804182",
@@ -150,12 +151,31 @@
   ],
   "doctor_products": [
     {
-      "id": "dp_k8ze0ps35",
+      "id": "dp_bgd53rdwi",
       "doctorId": "doc_1781442154041",
       "productId": "prod_1781441264878",
       "priority": "Medium",
       "potential": "Medium",
-      "monthlyRxCount": 20
+      "monthlyRxCount": 20,
+      "sequence": 1
+    },
+    {
+      "id": "dp_5qzwe57uj",
+      "doctorId": "doc_1781545780224",
+      "productId": "prod_1781439798992",
+      "priority": "Medium",
+      "potential": "Medium",
+      "monthlyRxCount": 20,
+      "sequence": 1
+    },
+    {
+      "id": "dp_6at8qpetr",
+      "doctorId": "doc_1781545780224",
+      "productId": "prod_1781441264878",
+      "priority": "Medium",
+      "potential": "Medium",
+      "monthlyRxCount": 20,
+      "sequence": 1
     }
   ],
   "chemists": [],
