@@ -90,9 +90,9 @@
       "preferredTime": "11.30 - 2.00",
       "birthday": "",
       "anniversary": "",
-      "latitude": 22.720083906437658,
-      "longitude": 75.86628911729488,
-      "googleMapUrl": "https://www.google.com/maps?q=null,null",
+      "latitude": 22.703131,
+      "longitude": 75.916204,
+      "googleMapUrl": "https://www.google.com/maps?q=22.703131,75.916204",
       "locations": [
         {
           "id": "loc_1781464727887_uyz05",
@@ -102,13 +102,14 @@
           "area": "scheme no.140",
           "city": "indore",
           "pincode": "452016",
-          "latitude": 22.712838992698934,
-          "longitude": 75.8524867145692
+          "latitude": 22.703131,
+          "longitude": 75.916204
         }
       ],
       "mrId": "admin",
       "nextScheduledDate": "2026-06-15",
-      "nextScheduledTime": "12:30"
+      "nextScheduledTime": "12:30",
+      "isDraft": true
     },
     {
       "id": "doc_1781545780224",
