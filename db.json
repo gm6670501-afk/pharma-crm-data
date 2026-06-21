@@ -7,9 +7,15 @@
       "composition": "MULTIVITAMINS & MULTIMINERALS",
       "packSize": "1*10",
       "mrp": 130,
-      "image": "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782070295878_MANVIT_LP.png",
-      "visualAids": [],
-      "visualAid": ""
+      "image": "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782071860109_manvit_lp_.png",
+      "visualAids": [
+        "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782071833337_manvit_lp_5.png",
+        "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782071837821_manvit_lp_4.png",
+        "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782071841579_manvit_lp_3.png",
+        "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782071845859_manvit_lp_2.png",
+        "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782071849635_manvit_lp_1.png"
+      ],
+      "visualAid": "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782071833337_manvit_lp_5.png"
     },
     {
       "id": "prod_1781441264878",
