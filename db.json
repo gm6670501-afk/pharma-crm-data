@@ -7,15 +7,9 @@
       "composition": "MULTIVITAMINS & MULTIMINERALS",
       "packSize": "1*10",
       "mrp": 130,
-      "image": "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782071860109_manvit_lp_.png",
-      "visualAids": [
-        "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782071833337_manvit_lp_5.png",
-        "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782071837821_manvit_lp_4.png",
-        "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782071841579_manvit_lp_3.png",
-        "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782071845859_manvit_lp_2.png",
-        "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782071849635_manvit_lp_1.png"
-      ],
-      "visualAid": "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782071833337_manvit_lp_5.png"
+      "image": "https://raw.githubusercontent.com/gm6670501-afk/pharma-crm-data/main/attachments/1782070295878_MANVIT_LP.png",
+      "visualAids": [],
+      "visualAid": ""
     },
     {
       "id": "prod_1781441264878",
@@ -52,9 +46,9 @@
       "preferredTime": "11.30 - 2.00",
       "birthday": "",
       "anniversary": "",
-      "latitude": 22.729678,
-      "longitude": 75.894257,
-      "googleMapUrl": "https://www.google.com/maps?q=22.729678,75.894257",
+      "latitude": 22.712627750645566,
+      "longitude": 75.86402314598656,
+      "googleMapUrl": "https://www.google.com/maps?q=null,null",
       "mrId": "admin",
       "locations": [
         {
@@ -65,13 +59,12 @@
           "area": "Aanand baazar ",
           "city": "Indore ",
           "pincode": "452018",
-          "latitude": 22.729678,
-          "longitude": 75.894257
+          "latitude": 22.708534062635763,
+          "longitude": 75.8767090587859
         }
       ],
       "nextScheduledDate": null,
-      "nextScheduledTime": null,
-      "isDraft": false
+      "nextScheduledTime": null
     },
     {
       "id": "doc_1781464804182",
@@ -90,9 +83,9 @@
       "preferredTime": "11.30 - 2.00",
       "birthday": "",
       "anniversary": "",
-      "latitude": 22.703131,
-      "longitude": 75.916204,
-      "googleMapUrl": "https://www.google.com/maps?q=22.703131,75.916204",
+      "latitude": 22.720083906437658,
+      "longitude": 75.86628911729488,
+      "googleMapUrl": "https://www.google.com/maps?q=null,null",
       "locations": [
         {
           "id": "loc_1781464727887_uyz05",
@@ -102,14 +95,13 @@
           "area": "scheme no.140",
           "city": "indore",
           "pincode": "452016",
-          "latitude": 22.703131,
-          "longitude": 75.916204
+          "latitude": 22.712838992698934,
+          "longitude": 75.8524867145692
         }
       ],
       "mrId": "admin",
       "nextScheduledDate": "2026-06-15",
-      "nextScheduledTime": "12:30",
-      "isDraft": true
+      "nextScheduledTime": "12:30"
     },
     {
       "id": "doc_1781545780224",
@@ -117,11 +109,11 @@
       "specialty": "",
       "qualification": "",
       "mobile": "",
-      "clinicName": "Primary Clinic",
+      "clinicName": "",
       "address": "",
-      "city": "Indore",
-      "area": "bhicoli mardana",
-      "pincode": "452016",
+      "city": "",
+      "area": "",
+      "pincode": "",
       "category": "",
       "callPriority": "Medium",
       "visitFrequency": "",
@@ -130,20 +122,20 @@
       "anniversary": "",
       "nextScheduledDate": null,
       "nextScheduledTime": null,
-      "latitude": 22.699262,
-      "longitude": 75.927959,
-      "googleMapUrl": "https://www.google.com/maps?q=22.699262,75.927959",
+      "latitude": 22.724121986266088,
+      "longitude": 75.83926894662456,
+      "googleMapUrl": "",
       "locations": [
         {
           "id": "loc_1781545780230_j727d",
           "clinicName": "Primary Clinic",
-          "preferredTime": "",
           "address": "",
-          "area": "bhicoli mardana",
-          "city": "Indore",
-          "pincode": "452016",
-          "latitude": 22.699262,
-          "longitude": 75.927959
+          "city": "",
+          "area": "",
+          "pincode": "",
+          "preferredTime": "",
+          "latitude": 22.7196,
+          "longitude": 75.8577
         }
       ],
       "isDraft": true,
@@ -152,31 +144,12 @@
   ],
   "doctor_products": [
     {
-      "id": "dp_bgd53rdwi",
+      "id": "dp_k8ze0ps35",
       "doctorId": "doc_1781442154041",
       "productId": "prod_1781441264878",
       "priority": "Medium",
       "potential": "Medium",
-      "monthlyRxCount": 20,
-      "sequence": 1
-    },
-    {
-      "id": "dp_5qzwe57uj",
-      "doctorId": "doc_1781545780224",
-      "productId": "prod_1781439798992",
-      "priority": "Medium",
-      "potential": "Medium",
-      "monthlyRxCount": 20,
-      "sequence": 1
-    },
-    {
-      "id": "dp_6at8qpetr",
-      "doctorId": "doc_1781545780224",
-      "productId": "prod_1781441264878",
-      "priority": "Medium",
-      "potential": "Medium",
-      "monthlyRxCount": 20,
-      "sequence": 1
+      "monthlyRxCount": 20
     }
   ],
   "chemists": [],
@@ -283,6 +256,30 @@
       "doctorId": "doc_1781545780224",
       "locationId": "loc_1781545780230_j727d",
       "date": "2026-06-21",
+      "time": "10:00",
+      "status": "Pending"
+    },
+    {
+      "id": "rem_1782130096062_q47ow",
+      "doctorId": "doc_1781442154041",
+      "locationId": "loc_1781464084699_tsb2q",
+      "date": "2026-06-22",
+      "time": "11.30 - 2.00",
+      "status": "Pending"
+    },
+    {
+      "id": "rem_1782130096062_pbhwk",
+      "doctorId": "doc_1781464804182",
+      "locationId": "loc_1781464727887_uyz05",
+      "date": "2026-06-22",
+      "time": "11.30 - 2.00",
+      "status": "Pending"
+    },
+    {
+      "id": "rem_1782130096062_x3js5",
+      "doctorId": "doc_1781545780224",
+      "locationId": "loc_1781545780230_j727d",
+      "date": "2026-06-22",
       "time": "10:00",
       "status": "Pending"
     }
