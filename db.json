@@ -109,7 +109,7 @@
       "specialty": "",
       "qualification": "",
       "mobile": "",
-      "clinicName": "",
+      "clinicName": "Primary Clinic",
       "address": "",
       "city": "",
       "area": "",
@@ -122,18 +122,18 @@
       "anniversary": "",
       "nextScheduledDate": null,
       "nextScheduledTime": null,
-      "latitude": 22.724121986266088,
-      "longitude": 75.83926894662456,
-      "googleMapUrl": "",
+      "latitude": 22.7196,
+      "longitude": 75.8577,
+      "googleMapUrl": "https://www.google.com/maps?q=22.7196,75.8577",
       "locations": [
         {
           "id": "loc_1781545780230_j727d",
           "clinicName": "Primary Clinic",
-          "address": "",
-          "city": "",
-          "area": "",
-          "pincode": "",
           "preferredTime": "",
+          "address": "",
+          "area": "",
+          "city": "",
+          "pincode": "",
           "latitude": 22.7196,
           "longitude": 75.8577
         }
@@ -150,6 +150,24 @@
       "priority": "Medium",
       "potential": "Medium",
       "monthlyRxCount": 20
+    },
+    {
+      "id": "dp_jhafmo0e2",
+      "doctorId": "doc_1781545780224",
+      "productId": "prod_1781439798992",
+      "priority": "Medium",
+      "potential": "Medium",
+      "monthlyRxCount": 20,
+      "sequence": 1
+    },
+    {
+      "id": "dp_377er0rb5",
+      "doctorId": "doc_1781545780224",
+      "productId": "prod_1781441264878",
+      "priority": "Medium",
+      "potential": "Medium",
+      "monthlyRxCount": 20,
+      "sequence": 1
     }
   ],
   "chemists": [],
@@ -284,7 +302,7 @@
       "status": "Pending"
     },
     {
-      "id": "rem_1782277331722_h7s6g",
+      "id": "rem_1782277357736_0jifs",
       "doctorId": "doc_1781442154041",
       "locationId": "loc_1781464084699_tsb2q",
       "date": "2026-06-24",
@@ -292,7 +310,7 @@
       "status": "Pending"
     },
     {
-      "id": "rem_1782277331722_ba0go",
+      "id": "rem_1782277357736_l8ebb",
       "doctorId": "doc_1781464804182",
       "locationId": "loc_1781464727887_uyz05",
       "date": "2026-06-24",
@@ -300,7 +318,7 @@
       "status": "Pending"
     },
     {
-      "id": "rem_1782277331722_jn5gl",
+      "id": "rem_1782277357736_piz3b",
       "doctorId": "doc_1781545780224",
       "locationId": "loc_1781545780230_j727d",
       "date": "2026-06-24",
