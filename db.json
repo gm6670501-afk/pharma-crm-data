@@ -1154,8 +1154,8 @@
       "preferredTime": "10:00 - 12:00",
       "birthday": "",
       "anniversary": "",
-      "nextScheduledDate": "2026-08-03",
-      "nextScheduledTime": "10:00",
+      "nextScheduledDate": null,
+      "nextScheduledTime": null,
       "latitude": 22.753041,
       "longitude": 75.904258,
       "googleMapUrl": "https://www.google.com/maps?q=22.753041,75.904258",
@@ -1250,24 +1250,9 @@
       "mrId": "admin"
     },
     {
-      "doctorId": "doc_1783313425027",
-      "locationId": "loc_1783313319322_taftx",
-      "date": "2026-07-06T10:27",
-      "status": "Met",
-      "samplesGiven": "",
-      "giftsGiven": "",
-      "nextFollowUp": "2026-08-03",
-      "remarks": "",
-      "productsPromoted": [
-        "prod_1781441264878"
-      ],
-      "id": "dcr_1783313897750",
-      "mrId": "admin"
-    },
-    {
       "doctorId": "doc_1783313288839",
       "locationId": "loc_1783313175045_walem",
-      "date": "2026-07-06T10:28",
+      "date": "2026-07-06T10:48",
       "status": "Met",
       "samplesGiven": "",
       "giftsGiven": "",
@@ -1276,7 +1261,7 @@
       "productsPromoted": [
         "prod_1781441264878"
       ],
-      "id": "dcr_1783313938404",
+      "id": "dcr_1783315120471",
       "mrId": "admin"
     }
   ],
@@ -1615,7 +1600,7 @@
       "locationId": "loc_1781464084699_tsb2q",
       "date": "2026-07-06",
       "time": "11.30 - 2.00",
-      "status": "Pending"
+      "status": "Cancelled"
     },
     {
       "id": "rem_1783313008951_xhfq5",
@@ -1623,7 +1608,7 @@
       "locationId": "loc_1781464727887_uyz05",
       "date": "2026-07-06",
       "time": "11.30 - 2.00",
-      "status": "Pending"
+      "status": "Cancelled"
     },
     {
       "id": "rem_1783313008951_bong5",
@@ -1631,7 +1616,7 @@
       "locationId": "loc_1781545780230_j727d",
       "date": "2026-07-06",
       "time": "10:00",
-      "status": "Pending"
+      "status": "Visited"
     },
     {
       "id": "rem_1783313008951_q95zh",
@@ -1639,7 +1624,7 @@
       "locationId": "loc_1782970005950_g8n1t",
       "date": "2026-07-06",
       "time": "10:00",
-      "status": "Pending"
+      "status": "Visited"
     },
     {
       "id": "rem_1783313008951_9ncfj",
@@ -1826,7 +1811,7 @@
       "status": "Pending"
     },
     {
-      "id": "rem_1783313839214_46ob9",
+      "id": "rem_1783313838444_8kcou",
       "doctorId": "doc_1783313162826",
       "locationId": "loc_1783313023695_m6fjg",
       "date": "2026-07-06",
@@ -1834,7 +1819,7 @@
       "status": "Pending"
     },
     {
-      "id": "rem_1783313839214_nvr8t",
+      "id": "rem_1783313838444_yop9x",
       "doctorId": "doc_1783313288839",
       "locationId": "loc_1783313175045_walem",
       "date": "2026-07-06",
@@ -1842,7 +1827,7 @@
       "status": "Visited"
     },
     {
-      "id": "rem_1783313839214_da0na",
+      "id": "rem_1783313838444_rvybv",
       "doctorId": "doc_1783313425027",
       "locationId": "loc_1783313319322_taftx",
       "date": "2026-07-06",
