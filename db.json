@@ -1136,6 +1136,44 @@
       ],
       "isDraft": true,
       "mrId": "admin"
+    },
+    {
+      "id": "doc_1783313425027",
+      "name": "Shashank singh ",
+      "specialty": "MD medicines ",
+      "qualification": "MD",
+      "mobile": "",
+      "clinicName": "Bombay hospital ",
+      "address": "Bombay hospital ",
+      "city": "Indore",
+      "area": "Vijay Nagar ",
+      "pincode": "452001",
+      "category": "B",
+      "callPriority": "Medium",
+      "visitFrequency": "Weekly",
+      "preferredTime": "10:00 - 12:00",
+      "birthday": "",
+      "anniversary": "",
+      "nextScheduledDate": null,
+      "nextScheduledTime": null,
+      "latitude": 22.753041,
+      "longitude": 75.904258,
+      "googleMapUrl": "https://www.google.com/maps?q=22.753041,75.904258",
+      "locations": [
+        {
+          "id": "loc_1783313319322_taftx",
+          "clinicName": "Bombay hospital ",
+          "preferredTime": "10:00 - 12:00",
+          "address": "Bombay hospital ",
+          "area": "Vijay Nagar ",
+          "city": "Indore",
+          "pincode": "452001",
+          "latitude": 22.753041,
+          "longitude": 75.904258
+        }
+      ],
+      "isDraft": true,
+      "mrId": "admin"
     }
   ],
   "doctor_products": [
@@ -1178,6 +1216,15 @@
     {
       "id": "dp_lv5bu7088",
       "doctorId": "doc_1783313288839",
+      "productId": "prod_1781441264878",
+      "priority": "Medium",
+      "potential": "Medium",
+      "monthlyRxCount": 20,
+      "sequence": 1
+    },
+    {
+      "id": "dp_hn7wd1uc9",
+      "doctorId": "doc_1783313425027",
       "productId": "prod_1781441264878",
       "priority": "Medium",
       "potential": "Medium",
