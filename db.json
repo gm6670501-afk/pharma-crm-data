@@ -266,36 +266,36 @@
     {
       "id": "doc_1782970054267",
       "name": "Prafulla Dubey ",
-      "specialty": "",
-      "qualification": "",
+      "specialty": "General physician ",
+      "qualification": "MBBS",
       "mobile": "",
-      "clinicName": "",
-      "address": "",
-      "city": "",
-      "area": "",
+      "clinicName": "Primary Clinic",
+      "address": "Dr . Praful dubey clinic ",
+      "city": "Indore ",
+      "area": "Geeta bhawan ",
       "pincode": "",
-      "category": "",
+      "category": "A+",
       "callPriority": "Medium",
-      "visitFrequency": "",
-      "preferredTime": "",
+      "visitFrequency": "Every 10 Days",
+      "preferredTime": "11:00 - 3:00",
       "birthday": "",
       "anniversary": "",
       "nextScheduledDate": null,
       "nextScheduledTime": null,
-      "latitude": 22.707538717717284,
-      "longitude": 75.86196047752952,
-      "googleMapUrl": "",
+      "latitude": 22.717952,
+      "longitude": 75.882649,
+      "googleMapUrl": "https://www.google.com/maps?q=22.717952,75.882649",
       "locations": [
         {
           "id": "loc_1782970054276_h1uop",
           "clinicName": "Primary Clinic",
-          "address": "",
-          "city": "",
-          "area": "",
+          "preferredTime": "11:00 - 3:00",
+          "address": "Dr . Praful dubey clinic ",
+          "area": "Geeta bhawan ",
+          "city": "Indore ",
           "pincode": "",
-          "preferredTime": "",
-          "latitude": 22.7196,
-          "longitude": 75.8577
+          "latitude": 22.717952,
+          "longitude": 75.882649
         }
       ],
       "isDraft": true,
@@ -1154,8 +1154,8 @@
       "preferredTime": "10:00 - 12:00",
       "birthday": "",
       "anniversary": "",
-      "nextScheduledDate": null,
-      "nextScheduledTime": null,
+      "nextScheduledDate": "2026-08-03",
+      "nextScheduledTime": "10:00",
       "latitude": 22.753041,
       "longitude": 75.904258,
       "googleMapUrl": "https://www.google.com/maps?q=22.753041,75.904258",
@@ -1230,6 +1230,24 @@
       "potential": "Medium",
       "monthlyRxCount": 20,
       "sequence": 1
+    },
+    {
+      "id": "dp_zpghca0gp",
+      "doctorId": "doc_1782970054267",
+      "productId": "prod_1781439798992",
+      "priority": "Medium",
+      "potential": "Medium",
+      "monthlyRxCount": 20,
+      "sequence": 1
+    },
+    {
+      "id": "dp_u6y8vei4t",
+      "doctorId": "doc_1782970054267",
+      "productId": "prod_1781441264878",
+      "priority": "Medium",
+      "potential": "Medium",
+      "monthlyRxCount": 20,
+      "sequence": 1
     }
   ],
   "chemists": [],
@@ -1250,9 +1268,24 @@
       "mrId": "admin"
     },
     {
+      "doctorId": "doc_1783313425027",
+      "locationId": "loc_1783313319322_taftx",
+      "date": "2026-07-06T10:27",
+      "status": "Met",
+      "samplesGiven": "",
+      "giftsGiven": "",
+      "nextFollowUp": "2026-08-03",
+      "remarks": "",
+      "productsPromoted": [
+        "prod_1781441264878"
+      ],
+      "id": "dcr_1783313897750",
+      "mrId": "admin"
+    },
+    {
       "doctorId": "doc_1783313288839",
       "locationId": "loc_1783313175045_walem",
-      "date": "2026-07-06T10:48",
+      "date": "2026-07-06T10:28",
       "status": "Met",
       "samplesGiven": "",
       "giftsGiven": "",
@@ -1261,7 +1294,7 @@
       "productsPromoted": [
         "prod_1781441264878"
       ],
-      "id": "dcr_1783315120471",
+      "id": "dcr_1783313938404",
       "mrId": "admin"
     }
   ],
@@ -1600,7 +1633,7 @@
       "locationId": "loc_1781464084699_tsb2q",
       "date": "2026-07-06",
       "time": "11.30 - 2.00",
-      "status": "Cancelled"
+      "status": "Pending"
     },
     {
       "id": "rem_1783313008951_xhfq5",
@@ -1608,7 +1641,7 @@
       "locationId": "loc_1781464727887_uyz05",
       "date": "2026-07-06",
       "time": "11.30 - 2.00",
-      "status": "Cancelled"
+      "status": "Pending"
     },
     {
       "id": "rem_1783313008951_bong5",
@@ -1616,7 +1649,7 @@
       "locationId": "loc_1781545780230_j727d",
       "date": "2026-07-06",
       "time": "10:00",
-      "status": "Visited"
+      "status": "Pending"
     },
     {
       "id": "rem_1783313008951_q95zh",
@@ -1624,7 +1657,7 @@
       "locationId": "loc_1782970005950_g8n1t",
       "date": "2026-07-06",
       "time": "10:00",
-      "status": "Visited"
+      "status": "Pending"
     },
     {
       "id": "rem_1783313008951_9ncfj",
@@ -1811,7 +1844,7 @@
       "status": "Pending"
     },
     {
-      "id": "rem_1783313838444_8kcou",
+      "id": "rem_1783313839214_46ob9",
       "doctorId": "doc_1783313162826",
       "locationId": "loc_1783313023695_m6fjg",
       "date": "2026-07-06",
@@ -1819,7 +1852,7 @@
       "status": "Pending"
     },
     {
-      "id": "rem_1783313838444_yop9x",
+      "id": "rem_1783313839214_nvr8t",
       "doctorId": "doc_1783313288839",
       "locationId": "loc_1783313175045_walem",
       "date": "2026-07-06",
@@ -1827,7 +1860,7 @@
       "status": "Visited"
     },
     {
-      "id": "rem_1783313838444_rvybv",
+      "id": "rem_1783313839214_da0na",
       "doctorId": "doc_1783313425027",
       "locationId": "loc_1783313319322_taftx",
       "date": "2026-07-06",
