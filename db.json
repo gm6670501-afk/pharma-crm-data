@@ -1060,6 +1060,44 @@
       ],
       "isDraft": true,
       "mrId": "admin"
+    },
+    {
+      "id": "doc_1783313162826",
+      "name": "Dr.idrish ahmad khan",
+      "specialty": "Cardiologist",
+      "qualification": "DM",
+      "mobile": "N",
+      "clinicName": "Bombay hospital ",
+      "address": "Bombay hospital ",
+      "city": "Indore ",
+      "area": "Vijay Nagar",
+      "pincode": "452010",
+      "category": "B",
+      "callPriority": "Medium",
+      "visitFrequency": "Every 3 Days",
+      "preferredTime": "9.30",
+      "birthday": "",
+      "anniversary": "",
+      "nextScheduledDate": null,
+      "nextScheduledTime": null,
+      "latitude": 22.755179,
+      "longitude": 75.904687,
+      "googleMapUrl": "https://www.google.com/maps?q=22.755179,75.904687",
+      "locations": [
+        {
+          "id": "loc_1783313023695_m6fjg",
+          "clinicName": "Bombay hospital ",
+          "preferredTime": "9.30",
+          "address": "Bombay hospital ",
+          "area": "Vijay Nagar",
+          "city": "Indore ",
+          "pincode": "452010",
+          "latitude": 22.755179,
+          "longitude": 75.904687
+        }
+      ],
+      "isDraft": false,
+      "mrId": "admin"
     }
   ],
   "doctor_products": [
@@ -1084,6 +1122,15 @@
     {
       "id": "dp_6at8qpetr",
       "doctorId": "doc_1781545780224",
+      "productId": "prod_1781441264878",
+      "priority": "Medium",
+      "potential": "Medium",
+      "monthlyRxCount": 20,
+      "sequence": 1
+    },
+    {
+      "id": "dp_e2axrovgz",
+      "doctorId": "doc_1783313162826",
       "productId": "prod_1781441264878",
       "priority": "Medium",
       "potential": "Medium",
