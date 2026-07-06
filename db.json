@@ -1154,8 +1154,8 @@
       "preferredTime": "10:00 - 12:00",
       "birthday": "",
       "anniversary": "",
-      "nextScheduledDate": null,
-      "nextScheduledTime": null,
+      "nextScheduledDate": "2026-08-03",
+      "nextScheduledTime": "10:00",
       "latitude": 22.753041,
       "longitude": 75.904258,
       "googleMapUrl": "https://www.google.com/maps?q=22.753041,75.904258",
@@ -1247,6 +1247,36 @@
         "prod_1781441264878"
       ],
       "id": "dcr_1781545599674",
+      "mrId": "admin"
+    },
+    {
+      "doctorId": "doc_1783313425027",
+      "locationId": "loc_1783313319322_taftx",
+      "date": "2026-07-06T10:27",
+      "status": "Met",
+      "samplesGiven": "",
+      "giftsGiven": "",
+      "nextFollowUp": "2026-08-03",
+      "remarks": "",
+      "productsPromoted": [
+        "prod_1781441264878"
+      ],
+      "id": "dcr_1783313897750",
+      "mrId": "admin"
+    },
+    {
+      "doctorId": "doc_1783313288839",
+      "locationId": "loc_1783313175045_walem",
+      "date": "2026-07-06T10:28",
+      "status": "Met",
+      "samplesGiven": "",
+      "giftsGiven": "",
+      "nextFollowUp": "",
+      "remarks": "",
+      "productsPromoted": [
+        "prod_1781441264878"
+      ],
+      "id": "dcr_1783313938404",
       "mrId": "admin"
     }
   ],
@@ -1796,7 +1826,7 @@
       "status": "Pending"
     },
     {
-      "id": "rem_1783313838444_8kcou",
+      "id": "rem_1783313839214_46ob9",
       "doctorId": "doc_1783313162826",
       "locationId": "loc_1783313023695_m6fjg",
       "date": "2026-07-06",
@@ -1804,20 +1834,20 @@
       "status": "Pending"
     },
     {
-      "id": "rem_1783313838444_yop9x",
+      "id": "rem_1783313839214_nvr8t",
       "doctorId": "doc_1783313288839",
       "locationId": "loc_1783313175045_walem",
       "date": "2026-07-06",
       "time": "9:30- 12:00",
-      "status": "Pending"
+      "status": "Visited"
     },
     {
-      "id": "rem_1783313838444_rvybv",
+      "id": "rem_1783313839214_da0na",
       "doctorId": "doc_1783313425027",
       "locationId": "loc_1783313319322_taftx",
       "date": "2026-07-06",
       "time": "10:00 - 12:00",
-      "status": "Pending"
+      "status": "Visited"
     }
   ],
   "attachments": []
