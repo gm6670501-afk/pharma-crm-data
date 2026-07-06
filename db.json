@@ -1098,6 +1098,44 @@
       ],
       "isDraft": false,
       "mrId": "admin"
+    },
+    {
+      "id": "doc_1783313288839",
+      "name": "Abhimanyu nigam",
+      "specialty": "Dm cardiologist ",
+      "qualification": "DM",
+      "mobile": "",
+      "clinicName": "Bombay hospital ",
+      "address": "Bombay hospital ",
+      "city": "Indore ",
+      "area": "Vijay Nagar ",
+      "pincode": "452001",
+      "category": "A",
+      "callPriority": "Medium",
+      "visitFrequency": "Weekly",
+      "preferredTime": "9:30- 12:00",
+      "birthday": "",
+      "anniversary": "",
+      "nextScheduledDate": null,
+      "nextScheduledTime": null,
+      "latitude": 22.754969,
+      "longitude": 75.904687,
+      "googleMapUrl": "https://www.google.com/maps?q=22.754969,75.904687",
+      "locations": [
+        {
+          "id": "loc_1783313175045_walem",
+          "clinicName": "Bombay hospital ",
+          "preferredTime": "9:30- 12:00",
+          "address": "Bombay hospital ",
+          "area": "Vijay Nagar ",
+          "city": "Indore ",
+          "pincode": "452001",
+          "latitude": 22.754969,
+          "longitude": 75.904687
+        }
+      ],
+      "isDraft": true,
+      "mrId": "admin"
     }
   ],
   "doctor_products": [
@@ -1131,6 +1169,15 @@
     {
       "id": "dp_e2axrovgz",
       "doctorId": "doc_1783313162826",
+      "productId": "prod_1781441264878",
+      "priority": "Medium",
+      "potential": "Medium",
+      "monthlyRxCount": 20,
+      "sequence": 1
+    },
+    {
+      "id": "dp_lv5bu7088",
+      "doctorId": "doc_1783313288839",
       "productId": "prod_1781441264878",
       "priority": "Medium",
       "potential": "Medium",
